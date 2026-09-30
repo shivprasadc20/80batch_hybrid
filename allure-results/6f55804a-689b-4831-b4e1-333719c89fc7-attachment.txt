@@ -1,0 +1,9 @@
+Application opened
+waited for 3 seconds
+Logincompleted
+Pageurl is :https://sureshitacademy.in/hrms/index.php
+waited for 3 seconds
+File Uploaded successfully
+New employee added successfully
+waited for 3 seconds
+waited for 3 seconds
