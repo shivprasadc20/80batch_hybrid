@@ -8,5 +8,6 @@ test('TC_01',async function({page})
 await obj.openapplication();
 await obj.login();
 await obj.logout();
+console.log("application working");
 })
 
